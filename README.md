@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Venus haxor
 - 👀 I’m interested in in programming, penetration testing and bug hunting ...
-- 🌱 I’m currently studying Computer science
 - 💞️ I’m looking to collaborate on projects
   - then also trying to be an extrovert :P
 - more
