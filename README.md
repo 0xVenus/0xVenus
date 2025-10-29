@@ -4,7 +4,7 @@
             <b>
             Hi There!
         <br>
-            I'm Venus, a dude who loves breaking into systems like a .357 bullet :3
+            I'm Venus, a dude who loves breaking security like a .357 bullet :3
             </b>
         <br>
         <br>
@@ -90,6 +90,7 @@
   <a href="https://tryhackme.com/p/Hack.You">
      <img src="https://tryhackme-badges.s3.amazonaws.com/Venushaxor.png" alt="TryHackMe">
   </a>
+<a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=0xVenus.0xVenus&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
