@@ -87,7 +87,7 @@
   <a href="https://app.hackthebox.com/profile/948393">
     
   </a>
-  <a href="https://tryhackme.com/p/Hack.You">
+  <a href="https://tryhackme.com/p/Venushaxor">
      <img src="https://tryhackme-badges.s3.amazonaws.com/Venushaxor.png" alt="TryHackMe">
   </a>
 <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=0xVenus.0xVenus&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
