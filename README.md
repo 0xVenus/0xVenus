@@ -90,7 +90,7 @@
   <a href="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096">
   <img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096"
        alt="PwnTillDawn"
-       height="60">
+       height="90">
 </a>
   <a href="https://tryhackme.com/p/Venushaxor">
      <img src="https://tryhackme-badges.s3.amazonaws.com/Venushaxor.png" alt="TryHackMe">
