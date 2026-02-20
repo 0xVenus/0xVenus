@@ -87,9 +87,11 @@
   <a href="https://app.hackthebox.com/profile/948393">
     
   </a>
-  <a href="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096r">
-     <img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096" alt="PwnTillDawn">
-  </a>
+  <a href="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096">
+  <img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/5096"
+       alt="PwnTillDawn"
+       height="60">
+</a>
   <a href="https://tryhackme.com/p/Venushaxor">
      <img src="https://tryhackme-badges.s3.amazonaws.com/Venushaxor.png" alt="TryHackMe">
   </a>
